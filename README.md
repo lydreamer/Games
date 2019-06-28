@@ -4,4 +4,5 @@
 完成状态：玩法机制已完成，数值配置待优化
 
 
-点击上方TheLastStore0.23.zip下载并体验吧！
+
+[点击下载并体验TheLastStore0.23.zip](https://github.com/lydreamer/Games/blob/master/TheLastStore0.23.zip)
